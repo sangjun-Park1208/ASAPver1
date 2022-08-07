@@ -50,9 +50,19 @@ T-map과 연결된 Recycler View에서 DB 테이블 목록을 출력하였고, �
 
 ![image](https://user-images.githubusercontent.com/64363668/183282477-ae445b74-ef2f-45b2-b934-167a30a394c7.png)
 
+[기능 구성도]
+
+![image](https://user-images.githubusercontent.com/64363668/183282610-09c041f7-715e-4da8-87f3-58f190d00ee9.jpeg)
+
+인터페이스 구성을 하기 전 필요 기능을 트리 형태로 표현하여 구상하였다.
+
+----------
 공모전 제출용 유튜브 링크
 
 https://youtu.be/HMigR5Y_JDQ
 
 대표 사진
+
+![image](https://user-images.githubusercontent.com/64363668/183282564-f19f5a25-d575-418b-b619-9be16c440fec.jpeg)
+
 
